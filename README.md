@@ -1,4 +1,4 @@
-###### Yeelight Stockprices
+# Yeelight Stockprices
 
 This is a simple Java program that changes the color of Xiaomi Yeelight bulbs based on a specific stock price.
 
