@@ -6,7 +6,7 @@ price goes up -> green
 price goes down -> red  
 price stays the same -> blue
 
-The saturation and brightness is dependend on the last 15 seconds average price.
+The saturation and brightness is depending on the last 15 seconds average price.
 
 
 In order to control the Yeelights, the [YAPI API](https://github.com/florian-mollin/yapi) is being used.  
